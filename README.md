@@ -1,7 +1,8 @@
+
 # 🚀 Tech Foundations Portfolio | IT, Cybersecurity, & Cloud Architecture
 
 ### 👋 About Me
-I am a motivated IT professional building expertise across core infrastructure functions. With foundational knowledge in **IT Support** and **Cybersecurity** (validated by Google certifications), I am currently focused on advancing my skills in **Cloud Architecture** by pursuing the AWS Cloud Architect certification. I use hands-on projects to demonstrate proficiency in system administration, security hardening, and modern infrastructure automation and deployment.
+I am a motivated IT professional building expertise across core infrastructure functions. With foundational knowledge in **IT Support** and **Cybersecurity** (validated by Google certifications), I am currently focused on advancing my skills in **Cloud Architecture** by pursuing the AWS Cloud Architect certification. I use hands-on projects to demonstrate proficiency in system administration, security hardening, infrastructure automation, and modern deployment methods.
 
 ---
 
@@ -15,11 +16,11 @@ I am a motivated IT professional building expertise across core infrastructure f
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Cloud & DevOps** | **Continuous Deployment (CD)**, **Netlify/Cloudflare Pages**, **AWS (S3, VPC, IAM concepts)**, Serverless Hosting |
+| **Cloud & DevOps** | **Infrastructure as Code (Terraform)**, **Continuous Deployment (CD)**, **Netlify/Cloudflare Pages**, **AWS (S3, VPC, IAM concepts)**, Serverless Hosting |
 | **Scripting & Automation** | **Python**, **Bash/Shell Scripting** |
-| **Networking & Security** | **Wireshark**, Nmap, TCP/IP, Incident Response, Network Filtering |
+| **Networking & Security** | **Wireshark**, Incident Response, **Principle of Least Privilege (PoLP)**, AWS Security Groups |
 | **Operating Systems** | Linux (Ubuntu/Debian), Windows OS, Command Line Interface (CLI) |
-| **IT & Support** | Troubleshooting methodologies, Triage, Documentation |
+| **IT & Support** | Troubleshooting methodologies, Log Analysis, Triage, Documentation |
 
 ---
 
@@ -32,5 +33,6 @@ The projects below demonstrate practical application of my certified skills. Eac
 | **IT Support Log Analyzer (Python)** | IT Support / Automation | **Complete** | [View Project](./Project-1-Log-Analyzer/README.md) |
 | **Network Traffic Analysis Case Study** | Cybersecurity / Networking | **Complete** | [View Case Study](./Project-2-Network-Analysis-Case-Study/README.md) |
 | **Static Portfolio Hosting (CD Pipeline)** | Cloud Architecture / DevOps | **Complete** | [View Project](./Project-3-Secure-Static-Website/README.md) |
+| **Terraform Security Group Hardening** | IaC / Cloud Security | **Complete** | **[View Code](./Project-4-Terraform-Security-Hardening/README.md)** |
 
 ---
