@@ -35,7 +35,7 @@ The projects below demonstrate practical application of my certified skills acro
 | **Static Portfolio Hosting (CD Pipeline)** | Cloud Architecture / DevOps | **Complete** | [View Project](./Project-3-Secure-Static-Website/README.md) |
 | **Terraform Security Group Hardening** | IaC / Cloud Security | **Complete** | [View Code](./Project-4-Terraform-Security-Hardening/README.md) |
 | **Python IAM MFA Security Auditor** | Cloud Security / Automation | **Complete** | [View Code](./Project-5-Python-IAM-Auditor/README.md) |
-| **Automated Cloud Monitoring (IaC)** | Observability / DevOps | **Complete** | **[View Code](./Project-6-Cloud-Monitoring-IaC/README.md)** |
+| **Automated Cloud Monitoring (IaC)** | Observability / DevOps | **Complete** | [View Code](./Project-6-Cloud-Monitoring-IaC/README.md) |
 
 ---
 
