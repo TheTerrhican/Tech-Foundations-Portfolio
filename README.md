@@ -30,8 +30,8 @@ The projects below demonstrate practical application of my certified skills. Eac
 
 | Project Title | Focus Area | Status | Documentation Link |
 | :--- | :--- | :--- | :--- |
-| **IT Support Log Analyzer (Python)** | IT Support / Automation | Planning | [Link will go here] |
-| **Network Traffic Analysis Case Study** | Cybersecurity / Networking | Planning | [Link will go here] |
-| **Static Portfolio Hosting on AWS S3** | Cloud Architecture / AWS Fundamentals | Planning | [Link will go here] |
+| **IT Support Log Analyzer (Python)** | IT Support / Automation | **Complete** | [View Project](./Project-1-Log-Analyzer/README.md) |
+| **Network Traffic Analysis Case Study** | Cybersecurity / Networking | **Complete** | [View Case Study](./Project-2-Network-Analysis-Case-Study/README.md) |
+| **Static Portfolio Hosting on AWS S3** | Cloud Architecture / AWS Fundamentals | **Planning** | [Link will go here] |
 
 ---
